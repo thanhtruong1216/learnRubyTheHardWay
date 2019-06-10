@@ -1,10 +1,10 @@
-# Print q string
+# Print the string 'Mary had a little lamb.'
 puts 'Mary had a little lamb.'
 
-# Print a string including a word 'snow'
+# Print the string 'Its fleece was white as snow.'
 puts "Its fleece was white as #{'snow'}."
 
-# Print q string
+# Print the string 'And everywhere that Mary went.'
 puts 'And everywhere that Mary went.'
 
 # Print the '.' 10 times
@@ -46,6 +46,6 @@ end11 = 'e'
 # Declare variable end1 equal to 'r'
 end12 = 'r'
 
-# watch that print vs. puts on this line what's it do?
+# Print the string 'CheeseBurger'
 print end1 + end2 + end3 + end4 + end5 + end6
 puts end7 + end8 + end9 + end10 + end11 + end12
