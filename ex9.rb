@@ -6,10 +6,10 @@ days = 'Mon Tue Wed Thu Fri Sat Sun'
 # Declare the variable months equal to the string 'Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug'
 months = 'Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug'
 
-# Print the string 'Here are the days: Mon Tue Wed Thu Fri Sat Sun'
+# Print the string 'Here are the days' with the days variable
 puts "Here are the days: #{days}"
 
-# Print the string 'Here are the months: Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug'
+# Print the string 'Here are the months' with the months variable
 puts "Here are the months: #{months}"
 
 =begin
