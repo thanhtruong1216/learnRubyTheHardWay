@@ -13,6 +13,9 @@ Layout/MultilineMethodCallIndentation:
 Layout/SpaceInsidePercentLiteralDelimiters:
   Enabled: false
 
+Lint/ImplicitStringConcatenation:
+  Enabled: false
+
 Naming/AccessorMethodName:
   Enabled: false
 
@@ -32,6 +35,9 @@ Style/FrozenStringLiteralComment:
   Enabled: false
 
 Style/PercentLiteralDelimiters:
+  Enabled: false
+
+Style/StringLiterals:
   Enabled: false
 
 Style/UnneededPercentQ:
