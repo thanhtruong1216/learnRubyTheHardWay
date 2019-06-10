@@ -5,7 +5,7 @@ types_of_people = 10
 x = "There are #{types_of_people} types of people."
 
 # Declare variable binary is a string
-binary = "binary"
+binary = 'binary'
 
 # Declare variable do_not is a string
 do_not = "don't"
@@ -35,10 +35,10 @@ joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
 puts joke_evaluation
 
 # Declare variable w equal to a string
-w = "This is the left side of..."
+w = 'This is the left side of...'
 
 # Declare variable e equal to a string
-e = "a string with a right side."
+e = 'a string with a right side.'
 
 # Print the result of concat two string w and e
 puts w + e
