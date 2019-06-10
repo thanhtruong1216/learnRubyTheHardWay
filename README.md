@@ -1,7 +1,7 @@
 # The type of commit
 
 ```
-  feat: a new featurex
+  feat: a new feature
   fix: a bug fix
   dfocs: changes to documentation
   style: formatting, missing semi colons, etc; no code change
