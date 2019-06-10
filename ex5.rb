@@ -8,11 +8,13 @@ eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
 
+
 # convert inches to centimenters
 inches_to_centimet = height * 2.54
 puts inches_to_centimet
 
 # convert pounds to kilograms
+
 pound_to_kilogram = weight * 0.45359237
 puts pound_to_kilogram
 
