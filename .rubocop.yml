@@ -73,6 +73,9 @@ Style/BlockComments:
 Style/SelfAssignment:
   Enabled: false
 
+Style/RedundantReturn:
+  Enabled: false
+
 Naming/UncommunicativeMethodParamName:
   Enabled: false
 
