@@ -16,14 +16,14 @@ puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 # Print the string 'Is it true that 3 + 2 < 5 - 7?'
 puts 'Is it true that 3 + 2 < 5 - 7?'
 
-# Print false
-puts 3 + 2 < 5 - 7
+# Print false using floating point
+puts 3 + 2 < 5 - 7.90
 
 # Print 'What is 3 + 2? 5'
 puts "What is 3 + 2? #{3 + 2}"
 
-# Print 'What is 5 - 7? -2'
-puts "What is 5 - 7? #{5 - 7}"
+# Print 'What is 5 - 7? -2' using floating point
+puts "What is 5 - 7? #{5 - 7.9}"
 
 # Print 'Oh, that's why it's false.'
 puts "Oh, that's why it's false."
@@ -31,11 +31,11 @@ puts "Oh, that's why it's false."
 # Print the string 'How about some more.'
 puts 'How about some more.'
 
-# Print 'Is it greater? true'
-puts "Is it greater? #{5 > -2}"
+# Print 'Is it greater? true' using floating point
+puts "Is it greater? #{5.67 > -2}"
 
-# Print 'Is it greater or equal? true'
-puts "Is it greater or equal? #{5 >= -2}"
+# Print 'Is it greater or equal? true' using floating point
+puts "Is it greater or equal? #{5.5912 >= -2}"
 
-# Print 'Is it less or equal? false'
-puts "Is it less or equal? #{5 <= -2}"
+# Print 'Is it less or equal? false' using floating point
+puts "Is it less or equal? #{65.9 <= -2}"
