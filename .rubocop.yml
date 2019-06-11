@@ -43,6 +43,9 @@ Style/StringLiterals:
 Lint/UselessAssignment:
   Enabled: false
 
+Security/Open:
+  Enabled: false
+
 Style/UnneededPercentQ:
   Enabled: false
 
