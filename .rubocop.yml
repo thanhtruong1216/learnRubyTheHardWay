@@ -40,6 +40,9 @@ Style/PercentLiteralDelimiters:
 Style/StringLiterals:
   Enabled: false
 
+Lint/UselessAssignment:
+  Enabled: false
+
 Style/UnneededPercentQ:
   Enabled: false
 
