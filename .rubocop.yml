@@ -70,6 +70,12 @@ Style/FormatString:
 Style/BlockComments:
   Enabled: false
 
+Style/SelfAssignment:
+  Enabled: false
+
+Naming/UncommunicativeMethodParamName:
+  Enabled: false
+
 Metrics/AbcSize:
   Max: 30
 
